@@ -1,6 +1,8 @@
-### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaopeng2918&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### yxp2918 😄
+**持续学习ing**
+-----
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaopeng2918&show_icons=true&icon_color=CE1D2D&hide_title=true&theme=cobalt" /> 
+<img align="left" height="166px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaopeng2918&layout=compact&theme=cobalt&hide_title=true"/> 
 
 
 
